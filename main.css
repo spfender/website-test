@@ -1,0 +1,95 @@
+body{
+    background-color: #ffffff;
+}
+h2{
+    width: 50%;
+}
+
+.jumbotron-fluid {
+    background-image: url('https://www.jonathanrosenbaum.net/wp-content/uploads/2017/10/P_Bruegel_Hunters.jpg');
+    padding: 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    margin-top: -40px;
+    background-attachment: fixed;
+    background-position: center -400px;
+
+}
+
+.jumbotron-fluid h1 {
+    position: center;
+    text-shadow: 2px 2px #2f00ff;
+    color: #ffffff
+}
+
+.jumbotron-fluid p {
+    position: center;
+    text-shadow: 2px 2px #ff0000;
+    color: #ffffff
+}
+
+#content{
+    color:#ffffff;
+    text-shadow: 2px 2px #2f00ff;
+    text-align: center;
+    font-style:italic;
+    text-shadow: black;
+    background-image: url('https://www.gannett-cdn.com/-mm-/fd9c143aa3effdd4a8abf82b66e7d5132723a6fd/c=0-43-849-523/local/-/media/2018/06/01/Camarillo/Camarillo/636634098877962218-vclo-0819-sbfire.jpg?auto=webp&format=pjpg&width=1200') ;
+    background-position: center -400px;
+    padding: 3%;
+}
+
+.container{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+
+ /* unvisited link */
+ a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  } 
+
+
+footer {
+	background-color: #dddddd;
+	position: absolute;
+	width: 100%;
+	height: auto;
+}
+
+footer ul li {
+	display: inline-block;
+	list-style: none;
+	
+	
+}
+
+footer p {
+	float: left;
+}
+
+
+footer p {
+
+	color:rgb(0, 0, 0);
+	vertical-align: middle;
+
+
+}
+
